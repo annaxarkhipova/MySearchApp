@@ -1,16 +1,16 @@
-Application searching via Google
+Application Searching via Google
 ---
 This is my first project (for me as a beginner) - a creating a python GUI with radiobuttons, entries, using Urllib library and buttons.
 I use the Mac OS.
 
-Description of a task:
+Description Of A Task:
 ---
 A user types in the search field 'tea' and chooses the browser selecting a wishful webbrowser. 
 Next step is pressing on the button 'Search', the user has a browser opening with the Google results of 'tea'. That is what web search engine could find in the Internet.
 
-A task picture:
+A Task Picture:
 --
-![Alt text](https://github.com/annaxarkhipova/Python/blob/master/hBCoOBEjD94.png)
+![A Task Picture](https://github.com/annaxarkhipova/MySearchApp/blob/master/hBCoOBEjD94.png)
 
 Result:
 --
