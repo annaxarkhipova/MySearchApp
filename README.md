@@ -14,5 +14,5 @@ A Task Picture:
 
 Result:
 --
-
+![Result](https://github.com/annaxarkhipova/MySearchApp/blob/master/Screenshot%201.png)
 
